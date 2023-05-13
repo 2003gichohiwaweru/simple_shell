@@ -1,2 +1,3 @@
-# simple_shell
-our collaborative shell project
+@simple_shell project
+
+This a collaborative project 
