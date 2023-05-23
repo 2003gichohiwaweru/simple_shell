@@ -13,8 +13,6 @@
 #include <errno.h>
 #include <stddef.h>
 
-#define INIT_BUF_SIZE 128
-
 
 
 #define EXIT -3
