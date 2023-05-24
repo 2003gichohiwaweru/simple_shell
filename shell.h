@@ -112,9 +112,11 @@ int toSetenviron(const char *name, const char *val, int o_wr);
 int toUnsetenviron(const char *name);
 int toputenviron(char *strng);
 
-/*operators.c */
+/* operators.c */
 int handle_operator(const char *string);
 int toHandleOperators(const char *string);
+/* operators2.c */
+char *myStrtok_r(char *strng const char *delim, char **saveptr);
 
 
 
